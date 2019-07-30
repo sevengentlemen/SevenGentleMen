@@ -1,6 +1,6 @@
 #定义一个银行类
 class Rank:
-    def init(self,user,password,rank_number,money):
+    def init(self,username,password,rank_number,money):
         pass
 
     # 存钱
