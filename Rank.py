@@ -15,6 +15,8 @@ class Rank:
     def modifyPassword(self,password):
         pass
 
+    def login(self,username,password):
+        pass
     def __str__(self):
         pass
 
