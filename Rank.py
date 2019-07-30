@@ -10,6 +10,7 @@ class Rank:
     # 取钱
     def withMoney(self):
         pass
+    pass
 
     # 修改密码
     def modifyPassword(self,password):
